@@ -17,6 +17,9 @@
 $ git clone https://github.com/silence-laboratories/TxElizaExample
 $ cd TxElizaExample
 $ npm install
+$ chmod +x cli.js
+$ npm link
+
 ```
 
 
