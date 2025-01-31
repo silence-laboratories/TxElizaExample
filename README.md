@@ -4,9 +4,9 @@
 
 `TxElizaExample` is a command-line tool that allows users to create and broadcast Ethereum transactions. It supports generating unsigned transactions, signing them externally, and broadcasting them to the Ethereum network.
 
-### Features
+### Flow to use the tool
 - Generate an unsigned Ethereum transaction and save it to a file.
-- Sign the transaction externally (e.g., using a hardware wallet or other tools).
+- Sign the transaction externally (e.g., using a hardware wallet or other tools or in this case, using the ElizaOS agent).
 - Broadcast the signed transaction to the Ethereum network.
 - Supports Infura as an Ethereum provider.
 
