@@ -1,7 +1,7 @@
 {
   "name": "txelizaexample",
   "version": "1.0.0",
-  "description": "create signed tx and broadcast utility",
+  "description": "create unsigned tx and broadcast utility",
   "main": "cli.js",
   "bin": {
     "eth-tx": "./cli.js"
